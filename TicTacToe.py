@@ -1,7 +1,7 @@
-import random
+import random #random module
 
-
-def display_board(board):
+#creating fuctions using "def" keyword
+def display_board(board): #creating fuctions using "def" keyword
     print('-------------')
     print('| ' + board[7] + ' | ' + board[8] + ' | ' + board[9] + ' |')
     print('-------------')
