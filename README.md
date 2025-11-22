@@ -3,7 +3,7 @@
 A simple implementation of the Tic Tac Toe game using random module and fuction definition in python.
 
 ## Rules of the Game:
-Tic Tac Toe is a classic game played on a 3x3 grid. Two players take turns placing their markers (X or O) on the board, aiming to get three of their marks in a row (horizontally, vertically, or diagonally) before the opponent does. If all the positions on the board are filled and no player has won, the game ends in a tie.
+TicTacToe is a classic game played on a 3x3 grid. Two players take turns placing their markers (X or O) on the board, aiming to get three of their marks in a row (horizontally, vertically, or diagonally) before the opponent does. If all the positions on the board are filled and no player has won, the game ends in a tie.
 
 ## How to Play:
 1. Run the `play_tic_tac_toe()` function in a Python environment.
