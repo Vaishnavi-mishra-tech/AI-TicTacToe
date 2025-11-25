@@ -33,7 +33,7 @@ The board uses positions 1–9 as follows:
 4 | 5 | 6
 ---------
 1 | 2 | 3
-
+---------
 
 ## 🖼 Example Screenshots (Console Output)
 🟦 1. Game Start
@@ -43,24 +43,24 @@ Player 1 will go first.
 Are you ready to play? Enter y or n: y
 
 ## 🟥 2. Board Display During Play
--------------
-|   |   |   |
--------------
-|   | X |   |
--------------
-|   |   |   |
--------------
+----------------
+|    |    |    |
+----------------
+|    | X  |    |
+----------------
+|    |    |    |
+---------------- 
 Choose a position (1-9):
 
 ## 🟩 3. Player Wins
 
--------------
-| X | X | X |
--------------
-| O | O |   |
--------------
-|   |   |   |
--------------
+----------------
+| X  | X  |  X |
+----------------
+| O  | O  |    |
+----------------
+|    |    |    |
+----------------
 Player 1 has won!
 
 ## 🟨 4. Tie Game
