@@ -24,7 +24,7 @@ python tic_tac_toe.py
 
 
 ```
- ##🧩 Game Board Layout
+ ## 🧩 Game Board Layout
 
 The board uses positions 1–9 as follows:
 
@@ -35,14 +35,14 @@ The board uses positions 1–9 as follows:
 1 | 2 | 3
 
 
-##🖼 Example Screenshots (Console Output)
+## 🖼 Example Screenshots (Console Output)
 🟦 1. Game Start
 Welcome to Tic Tac Toe!
 Player 1, choose X or O: X
 Player 1 will go first.
 Are you ready to play? Enter y or n: y
 
-##🟥 2. Board Display During Play
+## 🟥 2. Board Display During Play
 -------------
 |   |   |   |
 -------------
@@ -52,8 +52,7 @@ Are you ready to play? Enter y or n: y
 -------------
 Choose a position (1-9):
 
-##
-🟩 3. Player Wins
+## 🟩 3. Player Wins
 
 -------------
 | X | X | X |
@@ -64,7 +63,7 @@ Choose a position (1-9):
 -------------
 Player 1 has won!
 
-##🟨 4. Tie Game
+## 🟨 4. Tie Game
 -------------
 | X | O | X |
 -------------
