@@ -18,9 +18,12 @@ The game runs in the console and allows players to choose markers, take turns, a
 Save your Python file (e.g., `tic_tac_toe.py`) and run it using:
 
 
-
+```bash
 python tic_tac_toe.py
 
+
+
+```
  ##🧩 Game Board Layout
 
 The board uses positions 1–9 as follows:
