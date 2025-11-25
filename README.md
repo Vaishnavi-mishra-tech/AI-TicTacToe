@@ -20,4 +20,12 @@ Save your Python file (e.g., `tic_tac_toe.py`) and run it using:
 ```bash
 python tic_tac_toe.py
 
+7 | 8 | 9
+---------
+4 | 5 | 6
+---------
+1 | 2 | 3
+
+
+
 
